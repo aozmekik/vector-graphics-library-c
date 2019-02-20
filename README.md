@@ -1,8 +1,8 @@
 # Vector-Graphics-Library-C
 C implementation a vector graphics library that can draw vector graphics and export EPS formatted files.
 
-![img1](koy1.eps)
+You can find my article about this project on this link:
 
-![img2](koy2.eps)
+https://medium.com/@ahmedsemihozmekik/postscript-ve-c-320a00ec102a
 
-![img3](koy3.eps)
+![1](bak.eps.jpg)
