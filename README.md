@@ -1,5 +1,5 @@
 # Vector-Graphics-Library-C
-C implementation a vector graphics library that can draw vector graphics and export EPS formatted files. 
+A vector graphics library in C that draws shapes and fractals and exports them as EPS files.
 
 You can find my article about this project on this link:
 
